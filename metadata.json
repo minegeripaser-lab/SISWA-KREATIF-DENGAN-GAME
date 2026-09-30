@@ -1,0 +1,6 @@
+{
+  "name": "Siswa Kreatif dengan Game Kreatif - MIN 1 Paser",
+  "description": "Aplikasi game edukasi cerdas cermat 8 kelompok dengan eliminasi 3 kesalahan, generator soal AI, bank soal madrasah, dan arsip laporan nilai untuk MIN 1 Paser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
